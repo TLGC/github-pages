@@ -24,8 +24,8 @@ social:
 #    url: http://stackoverflow.com/
 #  - title: bitbucket
 #    url: http://bitbucket.org/
-  - title: github
-    url: https://github.com/tlgc
+#  - title: github
+#    url: https://github.com/tlgc
 
 # Build settings
 markdown: kramdown
